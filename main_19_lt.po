@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Kitą kartą pradėti įprastame ekrane"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Kitą kartą pradėti viso ekrano režimu"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Jei išeinate iš programos per meniu, programa"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "bus paleistas iš naujo įprastu 2D ekrano režimu."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Jei programą uždarote per variklio lango įrankių juostą,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "tada programa bus paleista iš naujo viso ekrano režimu."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternatyvus ėjimas – spustelėkite, jei norite atšaukti atsakomąjį ėjimą ir atlikti alternatyvų ėjimą."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Norėdami pakeisti numatytąjį šios parinkties veikimą"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Laikykite nuspaudę <Ctrl>, kad pasirinktumėte kitą alternatyvų veiksmą sąraše."
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Laikykite nuspaudę <Shift>, kad atliktumėte atsitiktinį alternatyvų veiksmą"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Laikykite nuspaudę <Ctrl> ir <Shift>, kad pasirinktumėte geriausią alternatyvų veiksmą"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "klaviatūroje pagrindiniame meniu pasirinkite < Failas > < Išeiti iš 3d >,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "Norėdami išeiti iš programos iš 3D ekrano, pasirinkite <Failas > <Išeiti iš programos >"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Jei norite, kad programa kitą kartą būtų paleista iš naujo 3D grafikos režimu,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "tada pasirinkdami šią parinktį laikykite nuspaudę klavišą <Ctrl>."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Atidėti žaidimai – spustelėkite, jei norite įkelti anksčiau atidėtą žaidimą."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Įkelti atidėtą žaidimą"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Atidėti žaidimą"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Atidaryti dialogo langą „Atidėtas žaidimas“"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Atidėti žaidimai"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Atidėto žaidimo failo pavadinimas"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Pasirinkite atidėto žaidimo .pgn failo pavadinimą"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Apkrova"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Įveskite PGN žaidimo pertraukos failo pavadinimą"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Išsaugoti dabartinį žaidimą kaip atidėtą"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Įkelti atidėtą žaidimą kaip dabartinį"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Šis dialogo langas leidžia atidėti žaidimą ir jį vėliau atnaujinti."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Norėdami išsaugoti dabartinį žaidimą, spustelėkite mygtuką <Išsaugoti>."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Galite pasirinkti PGN failą, kuriame norite išsaugoti žaidimą."
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "ir tada galite įvesti žaidimo informaciją."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Norėdami įkelti anksčiau išsaugotą žaidimą, spustelėkite mygtuką < Įkelti >."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Kaip ir anksčiau, pasirinkdami PGN failą, iš kurio norite įkelti žaidimą,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "ir tada galite pasirinkti norimą žaidimą."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Jei paspausite <Gerai>, žaidimas bus įkeltas ir paruoštas žaisti."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Tada pasirinkite < Žaisti baltai > arba < Žaisti juodai >, priklausomai nuo spalvos"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "turėjote atidėtose rungtynėse."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Atidėtus žaidimus taip pat galima paleisti iš naujo iš įvertintų žaidimų dialogo lango."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Jei iš ten įkelsite žaidimą, jis bus automatiškai paruoštas žaisti,"
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "nors jūsų laikrodis neprasidės, kol neatliksite ėjimo."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Žaidimo atidėjimo dialogo langas"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Klaida rašant laikrodžio konfigūracijos failą"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Neteisingas PGN failo pavadinimas"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Nepavyksta atidaryti laikrodžio konfigūracijos failo"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Atidėtas žaidimas išsaugotas"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Atidėtas žaidimas įkeltas"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Klaida skaitant laikrodžio konfigūracijos failą, operacija atšaukta"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Nepavyko atidaryti laikrodžio konfigūracijos failo, operacija atšaukta"
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Nepavyko rasti laikrodžio konfigūracijos failo, operacija atšaukta"
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Paspauskite <Gerai>, kad perkeltumėte žaidimą į lentą"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Atidėto žaidimo parinktys"
