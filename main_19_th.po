@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "ครั้งต่อไปให้เริ่มที่หน้าจอปกติ"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "ครั้งต่อไปให้เริ่มในโหมดเต็มหน้าจอ"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "หากคุณออกจากโปรแกรมจากเมนู โปรแกรมก็จะปิดตัวลง"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "จะรีสตาร์ทในโหมดหน้าจอ 2 มิติปกติ"
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "หากคุณออกจากโปรแกรมจากแถบเครื่องมือของหน้าต่างเครื่องยนต์"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "จากนั้นโปรแกรมจะเริ่มต้นใหม่ในโหมดเต็มหน้าจอ"
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "ทางเลือกอื่น - คลิกเพื่อยกเลิกการตอบและเล่นตาเดินอื่นแทน"
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "เพื่อเปลี่ยนแปลงพฤติกรรมเริ่มต้นของตัวเลือกนี้"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "กดปุ่ม < Ctrl > ค้างไว้เพื่อเลือกการเคลื่อนไหวทางเลือกถัดไปในรายการ"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "กดปุ่ม < Shift > ค้างไว้เพื่อเลือกการเคลื่อนไหวแบบสุ่ม"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "กดปุ่ม < Ctrl > และ < Shift > ค้างไว้เพื่อเลือกการเคลื่อนไหวทางเลือกที่ดีที่สุด"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "บนแป้นพิมพ์ ให้เลือก < ไฟล์ > < ออก 3 มิติ > จากเมนูหลัก"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "หากต้องการออกจากโปรแกรมจากหน้าจอ 3 มิติ ให้เลือก < ไฟล์ > < ออกจากโปรแกรม >"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "หากต้องการให้โปรแกรมเริ่มต้นทำงานในโหมดกราฟิก 3 มิติในครั้งต่อไป"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "จากนั้นให้กดปุ่ม < Ctrl > ค้างไว้ขณะเลือกตัวเลือกนี้"
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "เกมที่ถูกเลื่อนออกไป - คลิกเพื่อโหลดเกมที่ถูกเลื่อนออกไปก่อนหน้านี้"
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "โหลดเกมที่ถูกเลื่อนออกไป"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "เลื่อนการแข่งขัน"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "เปิดกล่องโต้ตอบเกมที่เลื่อนออกไป"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "เกมที่ถูกเลื่อนออกไป"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "ชื่อไฟล์เกมที่ถูกเลื่อนออกไป"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "เลือกชื่อไฟล์ .pgn ของเกมที่เลื่อนออกไป"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "โหลด"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "ป้อนชื่อไฟล์เกม PGN adjourn"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "บันทึกเกมปัจจุบันตามที่แนบมาด้วย"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "โหลดเกมที่ถูกเลื่อนออกไปเป็นเกมปัจจุบัน"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "กล่องโต้ตอบนี้ช่วยให้คุณสามารถหยุดเกมชั่วคราวและเริ่มเล่นใหม่ได้ในภายหลัง"
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "คลิกปุ่ม <บันทึก> เพื่อบันทึกเกมปัจจุบัน"
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "จากนั้นคุณสามารถเลือกไฟล์ PGN เพื่อบันทึกเกมได้"
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "จากนั้นคุณสามารถป้อนรายละเอียดของเกมได้"
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "คลิกปุ่ม < โหลด > เพื่อโหลดเกมที่บันทึกไว้ก่อนหน้านี้"
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "เช่นเดียวกับครั้งก่อน คุณเลือกไฟล์ PGN เพื่อโหลดเกม"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "จากนั้นคุณก็สามารถเลือกเกมที่คุณต้องการได้เลย"
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "หากคุณคลิก < ตกลง > เกมจะโหลดพร้อมให้เล่น"
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "จากนั้นเลือก <เล่นสีขาว> หรือ <เล่นสีดำ> ขึ้นอยู่กับสีที่ต้องการ"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "คุณมีในเกมที่เลื่อนออกไป"
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "เกมที่ถูกเลื่อนออกไปสามารถเริ่มเล่นใหม่ได้จากกล่องโต้ตอบการจัดเรตเกม"
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "หากคุณโหลดเกมจากที่นั่น เกมจะพร้อมเล่นโดยอัตโนมัติ"
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "ถึงแม้ว่านาฬิกาของคุณจะไม่เริ่มเดินจนกว่าคุณจะลงมือทำอะไรก็ตาม"
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "กล่องโต้ตอบเลื่อนเกม"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "เกิดข้อผิดพลาดในการเขียนไฟล์กำหนดค่านาฬิกา"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "ชื่อไฟล์ PGN ไม่ถูกต้อง"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "ไม่สามารถเปิดไฟล์การตั้งค่านาฬิกาได้"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "เกมที่ถูกเลื่อนออกไปได้รับการบันทึกไว้แล้ว"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "เกมถูกเลื่อนออกไป"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "เกิดข้อผิดพลาดในการอ่านไฟล์การกำหนดค่านาฬิกา การดำเนินการถูกยกเลิก"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "ไม่สามารถเปิดไฟล์การกำหนดค่านาฬิกาได้ การดำเนินการถูกยกเลิก"
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "ไม่พบไฟล์การกำหนดค่านาฬิกา การดำเนินการถูกยกเลิก"
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "กด < ตกลง > เพื่อถ่ายโอนเกมไปยังกระดาน"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "ตัวเลือกเกมที่ถูกเลื่อนออกไป"
