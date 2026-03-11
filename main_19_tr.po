@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Bir dahaki sefere normal ekranda başlayın."
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Bir dahaki sefere tam ekran modunda başlayın."
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Menüden programdan çıkarsanız, program tekrar kapanır."
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "Normal 2 boyutlu ekran modunda yeniden başlatılacaktır."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Programı motor penceresi araç çubuğundan kapatırsanız,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "Ardından program tam ekran modunda yeniden başlatılacaktır."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternatif - Cevap hamlesini geri almak ve bunun yerine alternatif bir hamle yapmak için tıklayın."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Bu seçeneğin varsayılan davranışını geçersiz kılmak için"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Listedeki bir sonraki alternatif hamle için <Ctrl> tuşunu basılı tutun."
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Rastgele alternatif bir hareket için <Shift> tuşunu basılı tutun."
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "En iyi alternatif hareket için <Ctrl> ve <Shift> tuşlarına aynı anda basın."
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "Klavyede, ana menüden <Dosya> <3D'den Çık> seçeneğini seçin."
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "3 boyutlu ekrandan programdan çıkmak için <Dosya> <Programdan Çık> seçeneğini belirleyin."
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Programın bir sonraki sefer 3 boyutlu grafik modunda yeniden başlatılmasını istiyorlarsa,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "Ardından bu seçeneği seçtiğinizde <Ctrl> tuşunu basılı tutun."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Ertelenmiş oyunlar - Daha önce ertelenmiş bir oyunu yüklemek için tıklayın."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Ertelenmiş bir oyunu yükle"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Oyunu ertele"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Ertelenen oyun iletişim kutusunu açın."
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Ertelenen oyunlar"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Ertelenen oyun dosya adı"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Ertelenen oyunun .pgn dosya adını seçin."
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Yük"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "PGN oyun dosyasının adını girin."
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Mevcut oyunu ertelenmiş olarak kaydedin."
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Ertelenen oyunu güncel oyun olarak yükle."
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Bu iletişim kutusu, oyunu erteleyip daha sonra yeniden başlatmanıza olanak tanır."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Mevcut oyunu kaydetmek için <Kaydet> düğmesine tıklayın."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Daha sonra oyunu kaydetmek için PGN dosyasını seçebilirsiniz."
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "Ardından oyun detaylarını girebilirsiniz."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Önceden kaydedilmiş bir oyunu yüklemek için <Yükle> düğmesine tıklayın."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Daha önce olduğu gibi, oyunu yüklemek için PGN dosyasını seçin."
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "Ardından istediğiniz oyunu seçebilirsiniz."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "<Tamam> seçeneğine tıkladığınızda oyun yüklenecek ve oynamaya hazır hale gelecektir."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Ardından, hangi renge bağlı olarak < Beyaz oyna > veya < Siyah oyna > seçeneklerinden birini seçin."
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "Ertelenen maçta sahip olduğunuz."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Ertelenen oyunlar, derecelendirilmiş oyun iletişim kutusundan da yeniden başlatılabilir."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Oradan bir oyun yüklerseniz, oyun otomatik olarak oynamaya hazır hale gelir."
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "Hareket etmediğiniz sürece saatiniz işlemeye başlamayacaktır."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Oyunu ertele iletişim kutusu"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Saat yapılandırma dosyasına yazma hatası"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Geçersiz PGN dosya adı"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Saat yapılandırma dosyası açılamıyor."
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Ertelenen oyun kaydedildi"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Ertelenen oyun yüklendi"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Saat yapılandırma dosyasını okurken hata oluştu, işlem iptal edildi."
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Saat yapılandırma dosyası açılamadı, işlem iptal edildi."
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Saat yapılandırma dosyası bulunamadı, işlem iptal edildi."
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Oyunu tahtaya aktarmak için < Tamam > düğmesine basın."
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Ertelenen oyun seçenekleri"
