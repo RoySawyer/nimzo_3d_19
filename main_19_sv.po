@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Börja nästa gång på normal skärm"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Börja nästa gång i helskärmsläge"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Om du avslutar programmet från menyn, så kommer programmet"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "startar om i normalt 2D-skärmläge."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Om du avslutar programmet från motorfönstrets verktygsfält,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "sedan startar programmet om i helskärmsläge."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternativ - klicka för att ta tillbaka svarsdraget och spela ett alternativt drag istället."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "För att åsidosätta standardbeteendet för det här alternativet"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Håll ner <Ctrl> för nästa alternativa drag i listan"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Håll ned <Shift> för ett slumpmässigt alternativt drag"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Håll nere <Ctrl> och <Shift> för bästa alternativa drag"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "på tangentbordet, välj < Arkiv > < Avsluta 3d > från huvudmenyn,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "För att avsluta programmet från 3D-skärmen, välj < Arkiv > < Avsluta program >"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Om du vill att programmet ska starta om i 3D-grafikläge nästa gång,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "håll sedan ner <Ctrl>-tangenten när du väljer det här alternativet."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Avbrutna matcher – Klicka för att ladda en tidigare avbruten match."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Ladda ett avbrutet spel"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Avbryt matchen"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Öppna dialogrutan Avbrutet spel"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Avbrutna matcher"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Filnamn för uppskjutet spel"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Välj filnamn för .pgn för avbruten match"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Ladda"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Ange PGN-avbrytningsfilnamnet"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Spara det aktuella spelet som avbrutet"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Ladda det avbrutna spelet som aktuellt"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "I den här dialogrutan kan du pausa ett spel och starta om det senare."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Klicka på knappen <Spara> för att spara det aktuella spelet."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Du kan välja PGN-filen för att spara spelet i"
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "och sedan kan du ange spelinformationen."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Klicka på knappen <Ladda> för att ladda ett tidigare lagrat spel."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Som tidigare väljer du PGN-filen att ladda spelet från,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "och sedan kan du välja det spel du vill ha."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Om du klickar på <Ok> laddas spelet och är klart att spelas."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Välj sedan <Spela vit> eller <Spela svart> beroende på vilken färg"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "du hade i den avbrutna matchen."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Avbrutna spel kan också startas om från dialogrutan för åldersgränsade spel."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Om du laddar ett spel därifrån blir det automatiskt klart för spel."
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "även om din klocka inte startar förrän du gör ett drag."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Dialogrutan Avbryt spelet"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Fel vid skrivning av klockkonfigurationsfil"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Ogiltigt PGN-filnamn"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Kan inte öppna klockkonfigurationsfilen"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Avbruten match räddad"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Avbruten match laddad"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Fel vid läsning av klockkonfigurationsfilen, åtgärden avbröts"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Kunde inte öppna klockkonfigurationsfilen, åtgärden avbröts"
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Kunde inte hitta klockkonfigurationsfilen, åtgärden avbröts"
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Tryck < Ok > för att överföra spelet till spelplanen"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Alternativ för uppskjutna spel"
