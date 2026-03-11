@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "அடுத்த முறை சாதாரண திரையில் தொடங்கு"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "அடுத்த முறை முழுத்திரை பயன்முறையில் தொடங்கு"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "நீங்கள் மெனுவிலிருந்து நிரலிலிருந்து வெளியேறினால், நிரல்"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "சாதாரண 2D திரை பயன்முறையில் மறுதொடக்கம் செய்யப்படும்."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "நீங்கள் என்ஜின் சாளர கருவிப்பட்டியிலிருந்து நிரலிலிருந்து வெளியேறினால்,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "பின்னர் நிரல் முழுத்திரை பயன்முறையில் மறுதொடக்கம் செய்யப்படும்."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "மாற்று - பதில் நகர்வைத் திரும்பப் பெற கிளிக் செய்து, அதற்குப் பதிலாக மாற்று நகர்வை இயக்கவும்."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "இந்த விருப்பத்தின் இயல்புநிலை நடத்தையை மேலெழுத"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "பட்டியலில் அடுத்த மாற்று நகர்வுக்கு <Ctrl > ஐ அழுத்திப் பிடிக்கவும்."
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "சீரற்ற மாற்று நகர்வுக்கு <Shift > ஐ அழுத்திப் பிடிக்கவும்."
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "சிறந்த மாற்று நகர்வுக்கு Ctrl > மற்றும் <Shift > ஐ அழுத்திப் பிடிக்கவும்."
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "விசைப்பலகையில், பிரதான மெனுவிலிருந்து File > Exit 3d > என்பதைத் தேர்ந்தெடுக்கவும்,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "3D திரையில் இருந்து நிரலை வெளியேற, <File > Exit program > என்பதைத் தேர்ந்தெடுக்கவும்."
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "அடுத்த முறை 3D கிராபிக்ஸ் பயன்முறையில் நிரலை மறுதொடக்கம் செய்ய விரும்பினால்,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "இந்த விருப்பத்தைத் தேர்ந்தெடுக்கும்போது Ctrl > விசையை அழுத்திப் பிடிக்கவும்."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டுகள் - முன்னர் ஒத்திவைக்கப்பட்ட விளையாட்டை ஏற்ற கிளிக் செய்யவும்."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டை ஏற்று."
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "ஆட்டத்தை ஒத்திவைக்கவும்"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டு உரையாடல் பெட்டியைத் திறக்கவும்."
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டுகள்"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டு கோப்பு பெயர்"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டு .pgn கோப்புப் பெயரைத் தேர்ந்தெடுக்கவும்."
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "சுமை"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "PGN ஒத்திவைப்பு விளையாட்டு கோப்பு பெயரை உள்ளிடவும்."
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "தற்போதைய விளையாட்டை இணைக்கப்பட்டதாக சேமிக்கவும்."
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டை நடப்பு விளையாட்டாக ஏற்றவும்."
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "இந்த உரையாடல் பெட்டி ஒரு விளையாட்டை ஒத்திவைத்து பின்னர் மறுதொடக்கம் செய்ய உங்களை அனுமதிக்கிறது."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "தற்போதைய விளையாட்டைச் சேமிக்க <சேமி > பொத்தானைக் கிளிக் செய்யவும்."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "விளையாட்டைச் சேமிப்பதற்கான PGN கோப்பை நீங்கள் தேர்வு செய்யலாம்"
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "பின்னர் நீங்கள் விளையாட்டு விவரங்களை உள்ளிடலாம்."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "முன்பு சேமிக்கப்பட்ட விளையாட்டை ஏற்ற, ஏற்று > பொத்தானைக் கிளிக் செய்யவும்."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "விளையாட்டை ஏற்ற PGN கோப்பைத் தேர்ந்தெடுப்பதற்கு முன்பு போல,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "பின்னர் நீங்கள் விரும்பும் விளையாட்டை நீங்கள் தேர்ந்தெடுக்கலாம்."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "நீங்கள் <சரி > என்பதைக் கிளிக் செய்தால் விளையாட்டு ஏற்றப்படும், விளையாடத் தயாராக இருக்கும்."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "பின்னர் எந்த நிறத்தைப் பொறுத்து < Play வெள்ளை > அல்லது < Play கருப்பு > என்பதைத் தேர்ந்தெடுக்கவும்."
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "நீங்கள் ஒத்திவைக்கப்பட்ட ஆட்டத்தில் இருந்தீர்கள்."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டுகளை மதிப்பிடப்பட்ட விளையாட்டு உரையாடல் பெட்டியிலிருந்து மீண்டும் தொடங்கலாம்."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "நீங்கள் அங்கிருந்து ஒரு விளையாட்டை ஏற்றினால், அது தானாகவே விளையாடத் தயாராகிவிடும்,"
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "நீங்கள் ஒரு நகர்வை மேற்கொள்ளும் வரை உங்கள் கடிகாரம் தொடங்காது."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "விளையாட்டை ஒத்திவைக்கும் உரையாடல் பெட்டி"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "கடிகார கட்டமைப்பு கோப்பை எழுதுவதில் பிழை."
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "தவறான PGN கோப்பு பெயர்."
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "கடிகார கட்டமைப்பு கோப்பைத் திறக்க முடியவில்லை."
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "ஒத்திவைக்கப்பட்ட ஆட்டம் சேமிக்கப்பட்டது"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டு ஏற்றப்பட்டது."
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "கடிகார உள்ளமைவு கோப்பைப் படிப்பதில் பிழை, செயல்பாடு ரத்து செய்யப்பட்டது."
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "கடிகார உள்ளமைவு கோப்பைத் திறக்க முடியவில்லை, செயல்பாடு ரத்து செய்யப்பட்டது."
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "கடிகார உள்ளமைவு கோப்பைக் கண்டுபிடிக்க முடியவில்லை, செயல்பாடு ரத்து செய்யப்பட்டது."
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "விளையாட்டை பலகைக்கு மாற்ற சரி > என்பதை அழுத்தவும்."
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "ஒத்திவைக்கப்பட்ட விளையாட்டு விருப்பங்கள்"
