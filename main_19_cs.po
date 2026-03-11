@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Příště začít na normální obrazovce"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Příště spustit v režimu celé obrazovky"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Pokud program ukončíte z nabídky, program"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "restartuje se v normálním 2D režimu obrazovky."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Pokud ukončíte program z panelu nástrojů okna enginu,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "poté se program restartuje v režimu celé obrazovky."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternativa - kliknutím vezmete zpět tah odpovědi a zahrajete místo toho alternativní tah."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Chcete-li přepsat výchozí chování této možnosti"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Podržte klávesu <Ctrl> pro další alternativní pohyb v seznamu"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Podržte <Shift> pro náhodný alternativní pohyb"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Podržte klávesy <Ctrl> a <Shift> pro nejlepší alternativní tah"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "na klávesnici vyberte z hlavní nabídky < Soubor > < Ukončit 3D >,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "Chcete-li program ukončit z 3D obrazovky, vyberte < Soubor > < Ukončit program >"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Pokud chcete, aby se program příště restartoval v režimu 3D grafiky,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "poté při výběru této možnosti podržte stisknutou klávesu <Ctrl>."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Odložené hry – Kliknutím načtete dříve odloženou hru."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Načíst odloženou hru"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Odložit hru"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Otevřít dialogové okno Přerušená hra"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Odložené hry"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Název souboru odložené hry"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Vyberte název souboru .pgn odložené hry"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Zatížení"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Zadejte název souboru hry PGN adjourn"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Uložit aktuální hru jako přerušenou"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Načíst odloženou hru jako aktuální"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Toto dialogové okno umožňuje hru přerušit a později ji restartovat."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Kliknutím na tlačítko < Uložit > uložíte aktuální hru."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Můžete si z nich vybrat PGN soubor pro uložení hry"
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "a poté můžete zadat podrobnosti o hře."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Kliknutím na tlačítko < Načíst > načtete dříve uloženou hru."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Stejně jako předtím si vyberete PGN soubor, ze kterého chcete hru načíst,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "a pak si můžete vybrat hru, kterou chcete."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Pokud kliknete na <OK>, hra se načte a bude připravena ke hraní."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Pak vyberte < Přehrát bílou > nebo < Přehrát černou > v závislosti na zvolené barvě"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "které jsi měl v přerušené hře."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Odložené hry lze také restartovat z dialogového okna hodnocené hry."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Pokud odtud načtete hru, bude automaticky připravena ke hraní."
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "i když se vaše hodiny nespustí, dokud neuděláte tah."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Dialogové okno pro přerušení hry"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Chyba při zápisu konfiguračního souboru hodin"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Neplatný název souboru PGN"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Nelze otevřít konfigurační soubor hodin"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Odložená hra uložena"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Odložená hra načtena"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Chyba při čtení konfiguračního souboru hodin, operace zrušena"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Nepodařilo se otevřít konfigurační soubor hodin, operace byla zrušena."
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Nelze najít konfigurační soubor hodin, operace byla zrušena."
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Stiskněte <OK> pro přenos hry na hrací desku"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Možnosti odložené hry"
