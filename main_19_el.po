@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Έναρξη την επόμενη φορά σε κανονική οθόνη"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Έναρξη την επόμενη φορά σε λειτουργία πλήρους οθόνης"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Εάν βγείτε από το πρόγραμμα από το μενού, τότε το πρόγραμμα"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "θα επανεκκινηθεί σε κανονική λειτουργία δισδιάστατης οθόνης."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Εάν κλείσετε το πρόγραμμα από τη γραμμή εργαλείων του παραθύρου του μηχανισμού,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "τότε το πρόγραμμα θα επανεκκινηθεί σε λειτουργία πλήρους οθόνης."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Εναλλακτική - κάντε κλικ για να αναιρέσετε την κίνηση απάντησης και να παίξετε μια εναλλακτική κίνηση."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Για να παρακάμψετε την προεπιλεγμένη συμπεριφορά αυτής της επιλογής"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Κρατήστε πατημένο το <Ctrl> για την επόμενη εναλλακτική κίνηση στη λίστα"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Κρατήστε πατημένο το < Shift > για μια τυχαία εναλλακτική κίνηση"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Κρατήστε πατημένα τα πλήκτρα <Ctrl> και <Shift> για την καλύτερη εναλλακτική κίνηση"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "στο πληκτρολόγιο, επιλέξτε < Αρχείο > < Έξοδος από 3d > από το κύριο μενού,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "Για να κλείσετε το πρόγραμμα από την τρισδιάστατη οθόνη, επιλέξτε < Αρχείο > < Έξοδος από πρόγραμμα >"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Αν θέλετε το πρόγραμμα να επανεκκινηθεί σε λειτουργία γραφικών 3D την επόμενη φορά,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "στη συνέχεια, κρατήστε πατημένο το πλήκτρο <Ctrl> όταν επιλέξετε αυτήν την επιλογή."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Παιχνίδια που έχουν αναβληθεί - Κάντε κλικ για να φορτώσετε ένα παιχνίδι που είχε αναβληθεί προηγουμένως."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Φόρτωση ενός παιχνιδιού που έχει αναβληθεί"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Παιχνίδι αναβολής"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Άνοιγμα του παραθύρου διαλόγου "Παιχνίδι σε αναβολή""
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Αναβληθέντα παιχνίδια"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Όνομα αρχείου παιχνιδιού που αναβλήθηκε"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Επιλέξτε όνομα αρχείου .pgn που έχει διακοπεί"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Φορτίο"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Εισαγάγετε το όνομα αρχείου παιχνιδιού PGN adjourn"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Αποθήκευση του τρέχοντος παιχνιδιού ως προσαρτημένου"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Φόρτωση του παιχνιδιού που αναβλήθηκε ως τρέχοντος"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Αυτό το παράθυρο διαλόγου σάς επιτρέπει να διακόψετε ένα παιχνίδι και να το επανεκκινήσετε αργότερα."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Κάντε κλικ στο κουμπί <Αποθήκευση> για να αποθηκεύσετε το τρέχον παιχνίδι."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Μπορείτε να επιλέξετε το αρχείο PGN για την αποθήκευση του παιχνιδιού."
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "και στη συνέχεια μπορείτε να εισαγάγετε τις λεπτομέρειες του παιχνιδιού."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Κάντε κλικ στο κουμπί < Φόρτωση > για να φορτώσετε ένα παιχνίδι που έχει αποθηκευτεί προηγουμένως."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Όπως και πριν, επιλέγετε το αρχείο PGN από το οποίο θα φορτώσετε το παιχνίδι,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "και μετά μπορείς να διαλέξεις το παιχνίδι που θέλεις."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Αν κάνετε κλικ στο <Ok>, το παιχνίδι θα φορτωθεί και θα είναι έτοιμο για παιχνίδι."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Στη συνέχεια, επιλέξτε <Παίξτε λευκό > ή <Παίξτε μαύρο > ανάλογα με το χρώμα"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "που είχατε στο παιχνίδι που αναβλήθηκε."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Τα παιχνίδια που έχουν αναβληθεί μπορούν επίσης να επανεκκινηθούν από το παράθυρο διαλόγου με τα αξιολογημένα παιχνίδια."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Αν φορτώσετε ένα παιχνίδι από εκεί, θα είναι αυτόματα έτοιμο για παιχνίδι,"
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "αν και το ρολόι σου δεν θα ξεκινήσει μέχρι να κάνεις μια κίνηση."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Παράθυρο διαλόγου αναβολής παιχνιδιού"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Σφάλμα κατά την εγγραφή του αρχείου διαμόρφωσης ρολογιού"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Μη έγκυρο όνομα αρχείου PGN"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου διαμόρφωσης ρολογιού"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Το παιχνίδι που αναβλήθηκε αποθηκεύτηκε"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Το παιχνίδι που αναβλήθηκε φορτώθηκε"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Σφάλμα ανάγνωσης αρχείου διαμόρφωσης ρολογιού, η λειτουργία ακυρώθηκε."
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Δεν ήταν δυνατό το άνοιγμα του αρχείου διαμόρφωσης ρολογιού, η λειτουργία ακυρώθηκε"
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Δεν ήταν δυνατή η εύρεση του αρχείου διαμόρφωσης ρολογιού, η λειτουργία ακυρώθηκε"
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Πατήστε <Ok> για να μεταφέρετε το παιχνίδι στο ταμπλό"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Επιλογές παιχνιδιού που έχουν αναβληθεί"
