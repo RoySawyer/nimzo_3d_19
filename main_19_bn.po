@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "পরের বার স্বাভাবিক স্ক্রিনে শুরু করুন"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "পরের বার পূর্ণ স্ক্রিন মোডে শুরু করুন"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "যদি আপনি মেনু থেকে প্রোগ্রামটি থেকে বেরিয়ে যান, তাহলে প্রোগ্রামটি"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "স্বাভাবিক 2d স্ক্রিন মোডে পুনরায় চালু হবে।"
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "যদি আপনি ইঞ্জিন উইন্ডো টুলবার থেকে প্রোগ্রামটি থেকে বেরিয়ে আসেন,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "তারপর প্রোগ্রামটি পূর্ণ স্ক্রিন মোডে পুনরায় চালু হবে।"
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "বিকল্প - উত্তরের পদক্ষেপটি ফিরিয়ে নিতে ক্লিক করুন এবং পরিবর্তে একটি বিকল্প পদক্ষেপ চালান।"
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "এই বিকল্পের ডিফল্ট আচরণ ওভাররাইড করতে"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "তালিকার পরবর্তী বিকল্প পদক্ষেপের জন্য <Ctrl > ধরে রাখুন"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "এলোমেলো বিকল্প পদক্ষেপের জন্য <Shift > চেপে ধরে রাখুন"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "সেরা বিকল্প পদক্ষেপের জন্য <Ctrl > এবং <Shift > ধরে রাখুন"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "কীবোর্ডে, প্রধান মেনু থেকে <File > <Exit 3d > নির্বাচন করুন,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "3d স্ক্রিন থেকে প্রোগ্রামটি থেকে বেরিয়ে আসতে, <File > Exit program > নির্বাচন করুন।"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "যদি পরের বার প্রোগ্রামটি 3D গ্রাফিক্স মোডে পুনরায় চালু করতে চান,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "তারপর এই বিকল্পটি নির্বাচন করার সময় <ctrl > কীটি ধরে রাখুন।"
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "স্থগিত খেলা - পূর্বে স্থগিত খেলা লোড করতে ক্লিক করুন।"
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "একটি স্থগিত খেলা লোড করুন"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "খেলা স্থগিত করুন"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "স্থগিত খেলা ডায়ালগ বক্স খুলুন।"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "স্থগিত খেলা"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "স্থগিত গেমের ফাইলের নাম"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "স্থগিত গেম .pgn ফাইলের নাম নির্বাচন করুন"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "লোড"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "PGN অ্যাডজার্ন গেম ফাইলের নাম লিখুন"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "বর্তমান খেলাটি সংযোজিত হিসেবে সংরক্ষণ করুন।"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "স্থগিত খেলাটি বর্তমান হিসাবে লোড করুন"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "এই ডায়ালগ বক্সটি আপনাকে একটি খেলা স্থগিত করতে এবং পরে পুনরায় চালু করতে দেয়।"
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "বর্তমান গেমটি সংরক্ষণ করতে < সংরক্ষণ করুন > বোতামে ক্লিক করুন।"
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "আপনি তাদের গেমটি সংরক্ষণের জন্য PGN ফাইলটি বেছে নিতে পারেন"
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "এবং তারপর আপনি খেলার বিবরণ লিখতে পারেন।"
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "পূর্বে সংরক্ষিত একটি গেম লোড করতে <লোড > বোতামে ক্লিক করুন।"
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "আগের মতোই, আপনি যে PGN ফাইল থেকে গেমটি লোড করবেন তা বেছে নিন,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "এবং তারপর তুমি তোমার পছন্দের খেলাটি বেছে নিতে পারো।"
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "আপনি যদি <Ok > ক্লিক করেন তাহলে গেমটি লোড হবে, খেলার জন্য প্রস্তুত।"
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "তারপর রঙের উপর নির্ভর করে <Play white > অথবা <Play black > বেছে নিন"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "স্থগিত খেলায় তুমি ছিলে।"
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "স্থগিত গেমগুলি রেট করা গেম ডায়ালগ বক্স থেকেও পুনরায় চালু করা যেতে পারে।"
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "সেখান থেকে যদি আপনি একটি গেম লোড করেন, তাহলে এটি স্বয়ংক্রিয়ভাবে খেলার জন্য প্রস্তুত হয়ে যাবে,"
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "যদিও তুমি নড়াচড়া না করা পর্যন্ত তোমার ঘড়ি শুরু হবে না।"
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "খেলা স্থগিত করার ডায়ালগ বক্স"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "ঘড়ি কনফিগ ফাইল লেখার সময় ত্রুটি।"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "অবৈধ PGN ফাইলের নাম"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "ঘড়ি কনফিগ ফাইল খোলা যাচ্ছে না"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "স্থগিত খেলা সংরক্ষিত হয়েছে"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "স্থগিত খেলা লোড হয়েছে"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "ঘড়ির কনফিগারেশন ফাইলটি পড়ার সময় ত্রুটি, অপারেশন বাতিল করা হয়েছে"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "ঘড়ির কনফিগারেশন ফাইল খোলা যায়নি, কার্যক্রম বাতিল করা হয়েছে।"
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "ঘড়ির কনফিগারেশন ফাইল খুঁজে পাওয়া যায়নি, কার্যক্রম বাতিল করা হয়েছে।"
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "গেমটি বোর্ডে স্থানান্তর করতে <ঠিক আছে > টিপুন।"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "স্থগিত খেলা বিকল্পগুলি"
