@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Comenzar la próxima vez en pantalla normal"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Comenzar la próxima vez en modo de pantalla completa"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Si sale del programa desde el menú, entonces el programa"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "se reiniciará en el modo de pantalla 2D normal."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Si sale del programa desde la barra de herramientas de la ventana del motor,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "Luego el programa se reiniciará en modo de pantalla completa."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternativa: haga clic para revertir el movimiento de respuesta y realizar un movimiento alternativo en su lugar."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Para anular el comportamiento predeterminado de esta opción"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Mantenga presionada la tecla <Ctrl> para el siguiente movimiento alternativo en la lista"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Mantenga presionada la tecla <Shift> para realizar un movimiento alternativo aleatorio"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Mantenga presionadas las teclas <Ctrl> y <Shift> para obtener la mejor alternativa de movimiento."
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "En el teclado, seleccione <Archivo> <Salir 3d> en el menú principal,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "Para salir del programa desde la pantalla 3D, seleccione < Archivo > < Salir del programa >"
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Si desea que el programa se reinicie en modo de gráficos 3D la próxima vez,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "Luego mantenga presionada la tecla <Ctrl> cuando seleccione esta opción."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Juegos aplazados: haga clic para cargar un juego aplazado previamente."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Cargar un juego aplazado"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Aplazar el juego"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Abrir el cuadro de diálogo Juego aplazado"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Juegos aplazados"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Nombre del archivo del juego aplazado"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Seleccionar el nombre del archivo .pgn del juego aplazado"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Carga"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Ingrese el nombre del archivo del juego de aplazamiento PGN"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Guardar el juego actual como aplazado"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Cargar el juego aplazado como actual"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Este cuadro de diálogo le permite aplazar un juego y reiniciarlo más tarde."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Haga clic en el botón < Guardar > para guardar el juego actual."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Luego puedes elegir el archivo PGN para guardar el juego."
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "y luego puedes ingresar los detalles del juego."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Haga clic en el botón <Cargar> para cargar un juego almacenado previamente."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Como antes, elige el archivo PGN desde el cual cargar el juego."
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "y luego puedes elegir el juego que quieras."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Si hace clic en <Aceptar>, el juego se cargará y estará listo para jugar."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Luego seleccione <Jugar blanco> o <Jugar negro> dependiendo del color"
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "que tenías en el juego aplazado."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Los juegos aplazados también se pueden reiniciar desde el cuadro de diálogo del juego clasificado."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Si cargas un juego desde allí, estará automáticamente listo para jugar."
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "Aunque tu reloj no comenzará a correr hasta que hagas un movimiento."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Cuadro de diálogo de aplazamiento del juego"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Error al escribir el archivo de configuración del reloj"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Nombre de archivo PGN no válido"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "No se puede abrir el archivo de configuración del reloj"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Juego aplazado guardado"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Juego aplazado cargado"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Error al leer el archivo de configuración del reloj, operación cancelada"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "No se pudo abrir el archivo de configuración del reloj, operación cancelada"
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "No se pudo encontrar el archivo de configuración del reloj, operación cancelada"
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Presiona < Ok > para transferir el juego al tablero"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Opciones de juego aplazado"
