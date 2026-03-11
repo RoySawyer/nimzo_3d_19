@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Legközelebb normál képernyőn indítás"
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Következő alkalommal teljes képernyős módban indítsa el"
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Ha a menüből kilépünk a programból, akkor a program"
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "normál 2D képernyőmódban fog újraindulni."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Ha a motor ablak eszköztáráról lép ki a programból,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "majd a program teljes képernyős módban újraindul."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternatív – kattints rá, ha vissza szeretnéd venni a válaszlépést, és helyette egy másik lépést szeretnél végrehajtani."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Az alapértelmezett viselkedés felülbírálásához"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Tartsa lenyomva a <Ctrl> billentyűt a lista következő alternatív lépéséhez"
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Tartsa lenyomva a <Shift> billentyűt egy véletlenszerű alternatív lépéshez"
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Tartsa lenyomva a < Ctrl > és a < Shift > billentyűket a legjobb alternatív lépéshez"
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "a billentyűzeten válassza a < Fájl > < Kilépés a 3D-ből > menüpontot a főmenüből,"
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "A program 3D képernyőből való kilépéséhez válassza a < Fájl > < Kilépés a programból > lehetőséget."
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Ha azt szeretné, hogy a program legközelebb 3D grafikus módban induljon újra,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "majd tartsa lenyomva a <Ctrl> billentyűt, amikor ezt a lehetőséget választja."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Elnapolt mérkőzések - Kattintson ide egy korábban elnapolt mérkőzés betöltéséhez."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Tölts be egy elhalasztott meccset"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Szüneteltesd a játékot"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Nyissa meg a Szüneteltetett mérkőzés párbeszédpanelt"
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Elhagyott mérkőzések"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Elhalasztott játék fájlneve"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Válassza ki a félbehagyott játék .pgn fájlnevét"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Terhelés"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Add meg a PGN játékmenet-elhalasztás fájlnevét"
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Mentse el az aktuális játékot megszakítottként"
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "A félbehagyott játék betöltése aktuálisként"
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Ez a párbeszédpanel lehetővé teszi a játék felfüggesztését és későbbi újraindítását."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Kattintson a < Mentés > gombra az aktuális játék mentéséhez."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Kiválaszthatod a PGN fájlt a játék mentéséhez."
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "és utána megadhatod a játék részleteit."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Kattintson a < Betöltés > gombra egy korábban mentett játék betöltéséhez."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Mint korábban, most is kiválasztod a PGN fájlt a játék betöltéséhez,"
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "és akkor kiválaszthatod a neked tetsző játékot."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Ha az <Ok> gombra kattintasz, a játék betöltődik, és készen áll a játékra."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Ezután válaszd a < Fehér játszása > vagy a < Fekete játszása > lehetőséget attól függően, hogy melyik színt választod."
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "voltál a szünetelt meccsen."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "A félbehagyott játékok a pontozott játékok párbeszédablakából is újraindíthatók."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Ha onnan töltesz be egy játékot, az automatikusan készen áll a játékra,"
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "bár az órád nem indul el, amíg nem lépsz."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Játék megszakítása párbeszédpanel"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Hiba az óra konfigurációs fájljának írásakor"
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Érvénytelen PGN fájlnév"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Nem sikerült megnyitni az óra konfigurációs fájlját"
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "A félbehagyott meccset mentettük"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "A félbehagyott játék betöltve"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Hiba az óra konfigurációs fájljának olvasása közben, a művelet megszakítva."
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Nem sikerült megnyitni az óra konfigurációs fájlját, a művelet megszakítva."
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Nem található az óra konfigurációs fájlja, a művelet megszakítva."
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Nyomd meg az <Ok> gombot a játék táblára átviteléhez"
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Elmaradt játék opciók"
