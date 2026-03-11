@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_19.cpp:3
+msgid "Start next time in normal screen"
+msgstr "Start de volgende keer in het normale scherm."
+
+#: main_19.cpp:7
+msgid "Start next time in full screen mode"
+msgstr "Start de volgende keer in de volledige schermmodus."
+
+#: main_19.cpp:9
+msgid "If you exit the program from the menu, then the program"
+msgstr "Als je het programma afsluit via het menu, dan wordt het programma afgesloten."
+
+#: main_19.cpp:11
+msgid "will restart in normal 2d screen mode."
+msgstr "Het apparaat zal opnieuw opstarten in de normale 2D-schermmodus."
+
+#: main_19.cpp:13
+msgid "If you exit the program from the engine window toolbar,"
+msgstr "Als u het programma afsluit via de werkbalk in het venster van de engine,"
+
+#: main_19.cpp:15
+msgid "then the program will restart in full screen mode."
+msgstr "Het programma zal vervolgens opnieuw opstarten in de volledige schermmodus."
+
+#: main_19.cpp:17
+msgid "Alternative - click to take back the reply move and play an alternative move instead."
+msgstr "Alternatief - klik om de antwoordzet ongedaan te maken en in plaats daarvan een alternatieve zet te spelen."
+
+#: main_19.cpp:19
+msgid "To over-ride the default behaviour of this option"
+msgstr "Om het standaardgedrag van deze optie te overschrijven"
+
+#: main_19.cpp:21
+msgid "Hold down < Ctrl > for the next alternative move in the list"
+msgstr "Houd <Ctrl> ingedrukt voor de volgende alternatieve zet in de lijst."
+
+#: main_19.cpp:23
+msgid "Hold down < Shift > for a random alternative move"
+msgstr "Houd <Shift> ingedrukt voor een willekeurige alternatieve zet."
+
+#: main_19.cpp:25
+msgid "Hold down < Ctrl > and < Shift > for the best alternative move"
+msgstr "Houd <Ctrl> en <Shift> ingedrukt voor de beste alternatieve beweging."
+
+#: main_19.cpp:27
+msgid "on the keyboard, select < File > < Exit 3d > from the main menu,"
+msgstr "Selecteer op het toetsenbord < Bestand > < 3D afsluiten > in het hoofdmenu."
+
+#: main_19.cpp:29
+msgid "To exit the program from the 3d screen, select < File > < Exit program >"
+msgstr "Om het programma vanuit het 3D-scherm af te sluiten, selecteert u < Bestand > < Programma afsluiten >."
+
+#: main_19.cpp:31
+msgid "If the want to the program to restart in 3d graphics mode next time,"
+msgstr "Als u wilt dat het programma de volgende keer opnieuw opstart in de 3D-grafische modus,"
+
+#: main_19.cpp:33
+msgid "then hold down the < Ctrl > key when you select this option."
+msgstr "Houd vervolgens de <Ctrl>-toets ingedrukt wanneer u deze optie selecteert."
+
+#: main_19.cpp:35
+msgid "Adjourned games  -  Click to load a previously adjourned game."
+msgstr "Uitgestelde wedstrijden - Klik hier om een ​​eerder uitgestelde wedstrijd te laden."
+
+#: main_19.cpp:37
+msgid "Load an adjourned game"
+msgstr "Laad een uitgesteld spel"
+
+#: main_19.cpp:39
+msgid "Adjourn game"
+msgstr "Spel verdagen"
+
+#: main_19.cpp:41
+msgid "Open the Adjourned game dialog box"
+msgstr "Open het dialoogvenster 'Uitgesteld spel'."
+
+#: main_19.cpp:43
+msgid "Adjourned games"
+msgstr "Uitgestelde wedstrijden"
+
+#: main_19.cpp:45
+msgid "Adjourned game file name"
+msgstr "Bestandsnaam van het uitgestelde spel"
+
+#: main_19.cpp:47
+msgid "Select adjourned game .pgn filename"
+msgstr "Selecteer het bestand .pgn van de uitgestelde wedstrijd"
+
+#: main_19.cpp:49
+msgid "Load"
+msgstr "Laden"
+
+#: main_19.cpp:51
+msgid "Enter the PGN adjourn game file name"
+msgstr "Voer de bestandsnaam van het PGN-spel 'adjourn' in."
+
+#: main_19.cpp:52
+msgid "Save the current game as adjouned"
+msgstr "Sla het huidige spel op zoals het is toegevoegd."
+
+#: main_19.cpp:53
+msgid "Load the adjourned game as current"
+msgstr "Laad de uitgestelde wedstrijd als huidige status."
+
+#: main_19.cpp:55
+msgid "This dialog box allows you to adjourn a game and restart it later."
+msgstr "Met dit dialoogvenster kunt u een spel onderbreken en later hervatten."
+
+#: main_19.cpp:57
+msgid "Click the < Save > button to save the current game."
+msgstr "Klik op de knop <Opslaan> om het huidige spel op te slaan."
+
+#: main_19.cpp:59
+msgid "You can them choose the PGN file for saving the game in"
+msgstr "Je kunt vervolgens het PGN-bestand kiezen om het spel in op te slaan."
+
+#: main_19.cpp:61
+msgid "and then you can enter the game details."
+msgstr "En dan kun je de speldetails invoeren."
+
+#: main_19.cpp:63
+msgid "Click the < Load > button to load a previously stored game."
+msgstr "Klik op de knop <Laden> om een ​​eerder opgeslagen spel te laden."
+
+#: main_19.cpp:65
+msgid "As before you choose the PGN file to load the game from,"
+msgstr "Net als voorheen kies je het PGN-bestand om het spel te laden."
+
+#: main_19.cpp:67
+msgid "and then you can pick the game that you want."
+msgstr "En dan kun je het spel kiezen dat je wilt spelen."
+
+#: main_19.cpp:69
+msgid "If you click < Ok > the game will be loaded, ready for playing."
+msgstr "Als je op <Ok> klikt, wordt het spel geladen en kun je het spelen."
+
+#: main_19.cpp:71
+msgid "Then pick < Play white > or < Play black > depending on which colour"
+msgstr "Kies vervolgens < Speel wit > of < Speel zwart >, afhankelijk van de kleur."
+
+#: main_19.cpp:73
+msgid "you had in the adjourned game."
+msgstr "je had in de uitgestelde wedstrijd."
+
+#: main_19.cpp:75
+msgid "Adjourned games can also be restarted from the rated game dialog box."
+msgstr "Uitgestelde wedstrijden kunnen ook worden hervat vanuit het dialoogvenster voor de beoordeelde wedstrijd."
+
+#: main_19.cpp:77
+msgid "If you load a game from there, it will be automatically ready for play,"
+msgstr "Als je daarvandaan een spel laadt, is het automatisch speelklaar."
+
+#: main_19.cpp:79
+msgid "although your clock will not start until you make a move."
+msgstr "hoewel je klok pas begint te lopen als je een beweging maakt."
+
+#: main_19.cpp:81
+msgid "Adjourn game dialog box"
+msgstr "Dialoogvenster voor het verdagen van het spel"
+
+#: main_19.cpp:83
+msgid "Error writing clock config file"
+msgstr "Fout bij het schrijven van het klokconfiguratiebestand."
+
+#: main_19.cpp:85
+msgid "Invalid PGN file name"
+msgstr "Ongeldige PGN-bestandsnaam"
+
+#: main_19.cpp:87
+msgid "Cannot open clock config file"
+msgstr "Kan het klokconfiguratiebestand niet openen."
+
+#: main_19.cpp:89
+msgid "Adjourned game saved"
+msgstr "Uitgesteld spel opgeslagen"
+
+#: main_19.cpp:91
+msgid "Adjourned game loaded"
+msgstr "Uitgesteld spel geladen"
+
+#: main_19.cpp:93
+msgid "Error reading clock configuration file, operation cancelled"
+msgstr "Fout bij het lezen van het klokconfiguratiebestand, bewerking geannuleerd"
+
+#: main_19.cpp:95
+msgid "Could not open clock configuration file, operation cancelled"
+msgstr "Het klokconfiguratiebestand kon niet worden geopend, de bewerking is geannuleerd."
+
+#: main_19.cpp:97
+msgid "Could not find clock configuration file, operation cancelled"
+msgstr "Het klokconfiguratiebestand kon niet worden gevonden, de bewerking is geannuleerd."
+
+#: main_19.cpp:99
+msgid "Press < Ok > to transfer the game to the board"
+msgstr "Druk op <Ok> om het spel naar het bord over te zetten."
+
+#: main_19.cpp:101
+msgid "Adjourned game options"
+msgstr "Uitgestelde spelopties"
